@@ -244,4 +244,4 @@ This repository serves as the official landing page for muvee Reveal. The softwa
 **Get the most recent version of muvee Reveal today!**
 
 ---
-**Last updated:** 2026-09-17 22:40:41 UTC
+**Last updated:** 2026-09-18 01:02:12 UTC
